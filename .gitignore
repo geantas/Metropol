@@ -261,5 +261,5 @@ __pycache__/
 *.pyc
 
 # database files (too large for github)
-*.mdf
-*.ldf
+*.mdf*
+*.ldf*
